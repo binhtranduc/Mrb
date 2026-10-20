@@ -1,1 +1,4 @@
-# Mrb
+streamlit
+ccxt
+numpy
+pandas
