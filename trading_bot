@@ -1,3 +1,7 @@
+streamlit
+ccxt
+numpy
+pandas
 """
 Perps Momentum Bot - Single-File Edition
 BTC, ETH, SOL, AVAX, SUI | both-ways momentum | ATR stops/targets | exchange-side exits
